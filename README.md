@@ -16,7 +16,6 @@ Botcha é um chatbot inovador desenvolvido para a EuroFarma, em colaboração co
 - Python: Linguagem principal utilizada para desenvolver o chatbot, oferecendo robustez e flexibilidade na implementação de funcionalidades.
 - Google Generative AI (Gemini): Utilizado para gerar respostas contextualizadas e precisas com base nas perguntas dos colaboradores, melhorando a interação e a qualidade das respostas.
 - Fitz (PyMuPDF): Biblioteca utilizada para extrair texto de arquivos PDF, como o código de ética e o manual de conduta, permitindo acesso fácil às informações relevantes contidas nesses documentos.
-- Numpy e Pandas: Bibliotecas essenciais para manipulação de dados e processamento de informações, permitindo uma análise eficaz e a apresentação de dados de maneira compreensível.
 - Flask: Framework web em Python usado para criar a API que gerencia as interações do chatbot, garantindo uma comunicação eficiente entre o usuário e o sistema.
 - Twilio: Ferramenta usada para fazer a conexão do projeto com o WhatsApp.
 - Ngrok: Protocolo utilizado para conectar ao servidor do Flask para acessar a solução.
